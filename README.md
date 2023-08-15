@@ -17,7 +17,7 @@
 
 ## ENUNCIADO
 
-- Nossa atividade de Metodologias Ágeis para o dia de hoje será feito não somente nas máquinas de vocês rodando a aplicação, mas também, utilizaremos e faremos bom proveito do Template dos Kanbans disponibilizado no seguinte link do Trello: https://trello.com/b/640858d2f5101b903344363f
+- Nossa atividade de Metodologias Ágeis para o dia de hoje será feito não somente nas máquinas de vocês rodando a aplicação, mas também, utilizaremos e faremos bom proveito do Template dos Kanbans disponibilizado no seguinte link do Trello: [https://trello.com/b/640858d2f5101b903344363f](https://trello.com/b/mDl6D3g6/atividades-de-metodologias-%C3%A1geis)
 
 - Hoje nossa empresa recebeu um pedido de um de nossos maiores clientes! Nosso cliente falou que está precisando do Desenvolvimento de algumas funções que pretende disponbilizar em sua Super Plataforma de Cálculos, então cabe a nós atendermos essa Demanda de nosso Cliente.
 
