@@ -24,7 +24,7 @@
 - Infelizmente nosso tempo é curto, então **DEVEMOS NOS ATENTAR AO GERENCIAMENTO DE TEMPO**.
 
 ## EXERCÍCIO 1
-Escreva uma função que receba um número, pertencente exclusivamente ao conjunto dos Naturais e que retorne se o valor do número representando um ano com 4 digitos seria ou não bissexto. Porém para dados de entrada < 0, deve ser impresso uma string "INVALID".
+Escreva uma função que receba um número, pertencente exclusivamente ao conjunto dos Naturais e que retorne se o valor do número representando um ano com 4 digitos seria ou não bissexto. Porém para dados de entrada < 0, deve ser retornado uma string "INVALID".
 
   Exemplo: input: 2024, output: "TRUE"<br/>
   Exemplo: input: 2025, output: "FALSE"<br/>
